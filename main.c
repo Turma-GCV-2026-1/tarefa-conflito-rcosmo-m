@@ -10,13 +10,8 @@ int main() {
     printf("Imprimindo linha 07.\n");
     printf("Imprimindo linha 08.\n");
     printf("Imprimindo linha 09.\n");
-<<<<<<< HEAD
     printf("Imprimindo linha 10. Segunda atualização\n");
     printf("Imprimindo linha 11.\n");
-=======
-    printf("Imprimindo linha 10. Terceira atualização\n");
-
->>>>>>> b5e073c34246bd2ca1dc5d83d4b70ec32b352917
     printf("Imprimindo linha 12.\n");
     return 0;
 }
