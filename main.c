@@ -12,5 +12,6 @@ int main() {
     printf("Imprimindo linha 09.\n");
     printf("Imprimindo linha 10. Segunda atualização\n");
     printf("Imprimindo linha 11.\n");
+    printf("Imprimindo linha 12.\n");
     return 0;
 }
